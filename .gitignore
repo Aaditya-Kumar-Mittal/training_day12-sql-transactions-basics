@@ -1,0 +1,33 @@
+# Ignore SQLite database files
+*.sqlite
+*.db
+
+# Ignore environment files
+.env
+.venv/
+env/
+venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules (if using Node.js)
+node_modules/
+
+# Ignore compiled files
+*.exe
+*.dll
+*.so
+*.o
+*.out
+
+# Ignore backup files
+*.bak
+*.tmp
